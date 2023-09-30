@@ -1,4 +1,4 @@
-#Es un codigo anti robo
+#Es un codigo anti robo ejemplo
 from machine import Pin,PWM
 import utime
 vibrate = Pin(0, Pin.IN, Pin.PULL_UP)
